@@ -3,7 +3,7 @@ import { redes } from "../../lib/redes";
 function Social() {
 
   return (
-    <section id="contacts" className="bg-[#804c25] flex flex-col items-center text-center py-10">
+    <section id="contacts" className="bg-[#EFE6DE] flex flex-col items-center text-center py-10">
       {/* <div className="espacio-con"></div> */}
       <div className="contenido">
         <p className="text-2xl ">No olvides visitar nuestras redes para enterarte de las ultimas novedades.</p>

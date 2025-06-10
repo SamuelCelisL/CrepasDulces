@@ -10,8 +10,8 @@ interface Red {
 export const redes: Red[] = [
   {
     id: 1,
-    nombre: "GitHub",
+    nombre: "Facebook",
     link: "https://github.com/SamuelCelisL",
-    icon: redesIcon.github
+    icon: redesIcon.facebook
   }
 ]
