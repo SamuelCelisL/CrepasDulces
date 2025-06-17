@@ -4,7 +4,7 @@ import Navegacion from "../ui/App/Navegacion"
 import Social from "../ui/App/Social"
 import Video from "../ui/App/Video"
 
-function App() {
+function Inicio() {
   return (
     <>
       <Navegacion />
@@ -23,4 +23,4 @@ function App() {
   )
 }
 
-export default App
+export default Inicio
