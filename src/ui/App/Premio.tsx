@@ -118,7 +118,7 @@ export default function Premio () {
                 </div>
                 <div className="flex items-start">
                   <span className="bg-yellow-400 text-black rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold mr-3 mt-0.5">2</span>
-                  <p className="text-gray-300">¡Disfruta de tus $8,000 en productos!</p>
+                  <p className="text-gray-300">¡Disfruta de tu: {premio}!</p>
                 </div>
               </div>
             </div>
